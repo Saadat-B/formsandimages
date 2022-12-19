@@ -1,0 +1,29 @@
+{
+  "name": "formsandimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadat-B/formsandimages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadat-B/formsandimages/issues"
+  },
+  "homepage": "https://github.com/Saadat-B/formsandimages#readme",
+  "dependencies": {
+    "cloudinary": "^1.33.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
